@@ -1,2 +1,2 @@
-# parasytecalypse
-Game made with Rust for learning
+# luxrhi
+Luxarise Render HHardware Interface

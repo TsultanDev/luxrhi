@@ -1,4 +1,0 @@
-
-[workspace]
-members = ["crates/application", "crates/luxarust", "crates/luxarust_window"]
-resolver = "3"

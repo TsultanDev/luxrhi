@@ -1,8 +1,0 @@
-[package]
-name = "application"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-luxarust = { version = "0.1.0", path = "../luxarust" }
-luxarust_window = { version = "0.1.0", path = "../luxarust_window" }
